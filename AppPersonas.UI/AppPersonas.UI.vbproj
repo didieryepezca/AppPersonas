@@ -1,0 +1,48 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.WindowsDesktop">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>AppPersonas.UI</RootNamespace>
+    <StartupObject>Sub Main</StartupObject>
+    <UseWindowsForms>true</UseWindowsForms>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Windows.Forms" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.Office.Interop.Excel" Version="14.0.0.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\AppPersonas.BusinessLogic\AppPersonas.BusinessLogic.vbproj" />
+    <ProjectReference Include="..\AppPersonas.Entities\AppPersonas.Entities.vbproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="Microsoft.Office.Interop.Excel">
+      <HintPath>..\..\..\..\.nuget\packages\microsoft.office.interop.excel\14.0.0\lib\net40\Microsoft.Office.Interop.Excel.dll</HintPath>
+      <EmbedInteropTypes>true</EmbedInteropTypes>
+    </Reference>
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Update="PersonasApplicationDataSet.Designer.vb">
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>PersonasApplicationDataSet.xsd</DependentUpon>
+    </Compile>
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Update="PersonasApplicationDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>PersonasApplicationDataSet.Designer.vb</LastGenOutput>
+    </None>
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,171 @@
+
+
+Se creo nuestro archivo Log
+
+
+Se realizo la tarea: Exportado de datos a Excel a las (MM/dd/AAAA hh:mm:ss): 10/16/2021 12:37:43 PM,Utilizando el boton de la pantalla principal
+
+
+Se realizo la tarea: Exportado de datos a Excel a las (MM/dd/AAAA hh:mm:ss): 10/16/2021 12:38:22 PM,Utilizando el boton de la pantalla principal
+
+
+Se realizo la tarea: Se Actualizó una persona a las (MM/dd/AAAA hh:mm:ss): 16/10/2021 13:41:52,Se actualizó con el documento N°=75857412Nombres=ANA FIORELA
+
+
+Se realizo la tarea: Se Actualizó una persona a las (MM/dd/AAAA hh:mm:ss): 16/10/2021 14:36:56,Se actualizó con el documento N°=28954574Nombres=DJALMA
+
+
+Se realizo la tarea: Se Actualizó una persona a las (MM/dd/AAAA hh:mm:ss): 16/10/2021 14:37:07,Se actualizó con el documento N°=75854745Nombres=JULIO
+
+
+Se realizo la tarea: Se Actualizó una persona a las (MM/dd/AAAA hh:mm:ss): 16/10/2021 14:37:16,Se actualizó con el documento N°=74548548Nombres=MARIA JOSE
+
+
+Se realizo la tarea: Se Actualizó una persona a las (MM/dd/AAAA hh:mm:ss): 16/10/2021 14:37:27,Se actualizó con el documento N°=27589654Nombres=RENZO FABIO
+
+
+Se realizo la tarea: Se Actualizó una persona a las (MM/dd/AAAA hh:mm:ss): 16/10/2021 14:37:37,Se actualizó con el documento N°=70879077Nombres=BRAYAN
+
+
+Se realizo la tarea: Se Actualizó una persona a las (MM/dd/AAAA hh:mm:ss): 16/10/2021 14:37:47,Se actualizó con el documento N°=71889573Nombres=DIDIER GERSON
+
+
+Se realizo la tarea: Se Actualizó una persona a las (MM/dd/AAAA hh:mm:ss): 16/10/2021 14:38:08,Se actualizó con el documento N°=75825412Nombres=PEDRO
+
+
+Se realizo la tarea: Se Registro una persona a las (MM/dd/AAAA hh:mm:ss): 16/10/2021 15:29:05,Se ingreso el documento N°=758457451Nombres=JOSSEP
+
+
+Se realizo la tarea: Se Registro una persona a las (MM/dd/AAAA hh:mm:ss): 16/10/2021 15:32:07,Se ingreso el documento N°=716374717Nombres=JOSSEP
+
+
+Se realizo la tarea: Se realizó una búsqueda a las (MM/dd/AAAA hh:mm:ss): 16/10/2021 15:32:30,Aplicando filtros con los valores de Nombre=JOSSEPApellido=Documento=
+
+
+Se realizo la tarea: Se Detectó una persona ya Registrada a las (MM/dd/AAAA hh:mm:ss): 16/10/2021 15:33:12,Se detecto persona existente con el documento N°=71889573Nombres=DIDIER
+
+
+Se realizo la tarea: Se Actualizó una persona a las (MM/dd/AAAA hh:mm:ss): 16/10/2021 15:33:36,Se actualizó con el documento N°=71889573Nombres=DIDIER
+
+
+Se realizo la tarea: Se elimino una persona a las (MM/dd/AAAA hh:mm:ss): 16/10/2021 15:33:48, Se elimino la persona con el Id:18
+
+
+Se realizo la tarea: Exportado de datos a Excel a las (MM/dd/AAAA hh:mm:ss): 10/16/2021 3:34:14 PM,Utilizando el boton de la pantalla principal
+
+
+Se realizo la tarea: Se Detectó una persona ya Registrada a las (MM/dd/AAAA hh:mm:ss): 16/10/2021 15:36:13,Se detecto persona existente con el documento N°=75825412Nombres=ANGEL
+
+
+Se realizo la tarea: Se Registro una persona a las (MM/dd/AAAA hh:mm:ss): 16/10/2021 15:38:10,Se ingreso el documento N°=75948231Nombres=JOSSEP
+
+
+Se realizo la tarea: Se Actualizó una persona a las (MM/dd/AAAA hh:mm:ss): 16/10/2021 15:38:42,Se actualizó con el documento N°=75948231Nombres=JOSSEP JOHN
+
+
+Se realizo la tarea: Se realizó una búsqueda a las (MM/dd/AAAA hh:mm:ss): 16/10/2021 15:38:56,Aplicando filtros con los valores de Nombre=JOSSEPApellido=Documento=
+
+
+Se realizo la tarea: Se realizó una búsqueda a las (MM/dd/AAAA hh:mm:ss): 16/10/2021 15:39:06,Aplicando filtros con los valores de Nombre=Apellido=YEPEZDocumento=
+
+
+Se realizo la tarea: Se realizó una búsqueda a las (MM/dd/AAAA hh:mm:ss): 16/10/2021 15:39:12,Aplicando filtros con los valores de Nombre=Apellido=YEPEZ CABANILLASDocumento=
+
+
+Se realizo la tarea: Se realizó una búsqueda a las (MM/dd/AAAA hh:mm:ss): 16/10/2021 15:39:15,Aplicando filtros con los valores de Nombre=Apellido=YEPEZ CABANILLASDocumento=
+
+
+Se realizo la tarea: Se Registro una persona a las (MM/dd/AAAA hh:mm:ss): 16/10/2021 15:40:42,Se ingreso el documento N°=76845216Nombres=FLOR
+
+
+Se realizo la tarea: Se Actualizó una persona a las (MM/dd/AAAA hh:mm:ss): 16/10/2021 15:41:05,Se actualizó con el documento N°=76845216Nombres=FLOR DE MARIA
+
+
+Se realizo la tarea: Se realizó una búsqueda a las (MM/dd/AAAA hh:mm:ss): 16/10/2021 15:41:27,Aplicando filtros con los valores de Nombre=Apellido=QUINTANADocumento=
+
+
+Se realizo la tarea: Se realizó una búsqueda a las (MM/dd/AAAA hh:mm:ss): 16/10/2021 15:41:34,Aplicando filtros con los valores de Nombre=JOSSEPApellido=Documento=
+
+
+Se realizo la tarea: Se realizó una búsqueda a las (MM/dd/AAAA hh:mm:ss): 16/10/2021 15:41:43,Aplicando filtros con los valores de Nombre=Apellido=Documento=71889573
+
+
+Se realizo la tarea: Se Detectó una persona ya Registrada a las (MM/dd/AAAA hh:mm:ss): 16/10/2021 15:42:04,Se detecto persona existente con el documento N°=71889573Nombres=GERSON
+
+
+Se realizo la tarea: Se elimino una persona a las (MM/dd/AAAA hh:mm:ss): 16/10/2021 15:42:29, Se elimino la persona con el Id:14
+
+
+Se realizo la tarea: Exportado de datos a Excel a las (MM/dd/AAAA hh:mm:ss): 10/16/2021 3:42:57 PM,Utilizando el boton de la pantalla principal
+
+
+Se realizo la tarea: Se Registro una persona a las (MM/dd/AAAA hh:mm:ss): 10/16/2021 3:45:38 PM,Se ingreso el documento N°=79525414Nombres=ALEX
+
+
+Se realizo la tarea: Se Registro una persona a las (MM/dd/AAAA hh:mm:ss): 16/10/2021 15:47:25,Se ingreso el documento N°=74542156Nombres=JOSE MARIA
+
+
+Se realizo la tarea: Se Actualizó una persona a las (MM/dd/AAAA hh:mm:ss): 16/10/2021 15:47:57,Se actualizó con el documento N°=74542156Nombres=JOSE MARIA
+
+
+Se realizo la tarea: Se elimino una persona a las (MM/dd/AAAA hh:mm:ss): 16/10/2021 15:48:09, Se elimino la persona con el Id:22
+
+
+Se realizo la tarea: Se realizó una búsqueda a las (MM/dd/AAAA hh:mm:ss): 16/10/2021 15:48:30,Aplicando filtros con los valores de Nombre=JOSEPApellido=Documento=
+
+
+Se realizo la tarea: Se realizó una búsqueda a las (MM/dd/AAAA hh:mm:ss): 16/10/2021 15:48:36,Aplicando filtros con los valores de Nombre=JOSSEPApellido=Documento=
+
+
+Se realizo la tarea: Se realizó una búsqueda a las (MM/dd/AAAA hh:mm:ss): 16/10/2021 15:48:43,Aplicando filtros con los valores de Nombre=DIDIApellido=Documento=
+
+
+Se realizo la tarea: Se realizó una búsqueda a las (MM/dd/AAAA hh:mm:ss): 16/10/2021 15:48:47,Aplicando filtros con los valores de Nombre=DIDIERApellido=Documento=
+
+
+Se realizo la tarea: Se realizó una búsqueda a las (MM/dd/AAAA hh:mm:ss): 16/10/2021 15:48:54,Aplicando filtros con los valores de Nombre=Apellido=QUITANADocumento=
+
+
+Se realizo la tarea: Se realizó una búsqueda a las (MM/dd/AAAA hh:mm:ss): 16/10/2021 15:49:05,Aplicando filtros con los valores de Nombre=Apellido=YÉPEZDocumento=
+
+
+Se realizo la tarea: Se realizó una búsqueda a las (MM/dd/AAAA hh:mm:ss): 16/10/2021 15:49:10,Aplicando filtros con los valores de Nombre=Apellido=YÉPEZ CABANILLASDocumento=
+
+
+Se realizo la tarea: Se realizó una búsqueda a las (MM/dd/AAAA hh:mm:ss): 16/10/2021 15:49:23,Aplicando filtros con los valores de Nombre=Apellido=Documento=71885973
+
+
+Se realizo la tarea: Se realizó una búsqueda a las (MM/dd/AAAA hh:mm:ss): 16/10/2021 15:49:30,Aplicando filtros con los valores de Nombre=Apellido=Documento=75
+
+
+Se realizo la tarea: Se realizó una búsqueda a las (MM/dd/AAAA hh:mm:ss): 16/10/2021 15:49:34,Aplicando filtros con los valores de Nombre=Apellido=Documento=75578
+
+
+Se realizo la tarea: Se realizó una búsqueda a las (MM/dd/AAAA hh:mm:ss): 16/10/2021 15:49:57,Aplicando filtros con los valores de Nombre=JOSSEPApellido=Documento=
+
+
+Se realizo la tarea: Se realizó una búsqueda a las (MM/dd/AAAA hh:mm:ss): 16/10/2021 15:50:09,Aplicando filtros con los valores de Nombre=Apellido=QUINTANADocumento=
+
+
+Se realizo la tarea: Se realizó una búsqueda a las (MM/dd/AAAA hh:mm:ss): 16/10/2021 15:50:20,Aplicando filtros con los valores de Nombre=Apellido=Documento=71889573
+
+
+Se realizo la tarea: Se Registro una persona a las (MM/dd/AAAA hh:mm:ss): 16/10/2021 15:51:47,Se ingreso el documento N°=3423424Nombres=DANNERY
+
+
+Se realizo la tarea: Se Actualizó una persona a las (MM/dd/AAAA hh:mm:ss): 16/10/2021 15:53:00,Se actualizó con el documento N°=3423424Nombres=DANNERY
+
+
+Se realizo la tarea: Se elimino una persona a las (MM/dd/AAAA hh:mm:ss): 16/10/2021 15:53:13, Se elimino la persona con el Id:23
+
+
+Se realizo la tarea: Se realizó una búsqueda a las (MM/dd/AAAA hh:mm:ss): 16/10/2021 15:53:35,Aplicando filtros con los valores de Nombre=JOSSEPApellido=Documento=
+
+
+Se realizo la tarea: Se realizó una búsqueda a las (MM/dd/AAAA hh:mm:ss): 16/10/2021 15:53:43,Aplicando filtros con los valores de Nombre=Apellido=QUINTANADocumento=
+
+
+Se realizo la tarea: Se realizó una búsqueda a las (MM/dd/AAAA hh:mm:ss): 16/10/2021 15:53:55,Aplicando filtros con los valores de Nombre=Apellido=Documento=71889573
+
+
+Se realizo la tarea: Exportado de datos a Excel a las (MM/dd/AAAA hh:mm:ss): 10/16/2021 3:54:27 PM,Utilizando el boton de la pantalla principal

@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <RootNamespace>AppPersonas.DataAccess</RootNamespace>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="System.Data.OleDb" Version="5.0.0" />
+    <PackageReference Include="System.Data.SqlClient" Version="4.8.3" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\AppPersonas.Entities\AppPersonas.Entities.vbproj" />
+  </ItemGroup>
+
+</Project>

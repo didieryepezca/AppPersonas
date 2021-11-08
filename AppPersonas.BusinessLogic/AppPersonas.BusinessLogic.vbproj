@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <RootNamespace>AppPersonas.BusinessLogic</RootNamespace>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\AppPersonas.DataAccess\AppPersonas.DataAccess.vbproj" />
+    <ProjectReference Include="..\AppPersonas.Entities\AppPersonas.Entities.vbproj" />
+  </ItemGroup>
+
+</Project>

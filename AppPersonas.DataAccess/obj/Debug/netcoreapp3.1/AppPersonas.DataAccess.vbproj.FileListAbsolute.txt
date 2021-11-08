@@ -1,0 +1,13 @@
+C:\Users\didie\source\repos\AppPersonas\AppPersonas.DataAccess\bin\Debug\netcoreapp3.1\AppPersonas.DataAccess.deps.json
+C:\Users\didie\source\repos\AppPersonas\AppPersonas.DataAccess\bin\Debug\netcoreapp3.1\AppPersonas.DataAccess.dll
+C:\Users\didie\source\repos\AppPersonas\AppPersonas.DataAccess\bin\Debug\netcoreapp3.1\AppPersonas.DataAccess.pdb
+C:\Users\didie\source\repos\AppPersonas\AppPersonas.DataAccess\bin\Debug\netcoreapp3.1\AppPersonas.Entities.dll
+C:\Users\didie\source\repos\AppPersonas\AppPersonas.DataAccess\bin\Debug\netcoreapp3.1\AppPersonas.Entities.pdb
+C:\Users\didie\source\repos\AppPersonas\AppPersonas.DataAccess\obj\Debug\netcoreapp3.1\AppPersonas.DataAccess.vbproj.AssemblyReference.cache
+C:\Users\didie\source\repos\AppPersonas\AppPersonas.DataAccess\obj\Debug\netcoreapp3.1\AppPersonas.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\didie\source\repos\AppPersonas\AppPersonas.DataAccess\obj\Debug\netcoreapp3.1\AppPersonas.DataAccess.AssemblyInfoInputs.cache
+C:\Users\didie\source\repos\AppPersonas\AppPersonas.DataAccess\obj\Debug\netcoreapp3.1\AppPersonas.DataAccess.AssemblyInfo.vb
+C:\Users\didie\source\repos\AppPersonas\AppPersonas.DataAccess\obj\Debug\netcoreapp3.1\AppPersonas.DataAccess.vbproj.CoreCompileInputs.cache
+C:\Users\didie\source\repos\AppPersonas\AppPersonas.DataAccess\obj\Debug\netcoreapp3.1\AppPersonas.DataAccess.vbproj.CopyComplete
+C:\Users\didie\source\repos\AppPersonas\AppPersonas.DataAccess\obj\Debug\netcoreapp3.1\AppPersonas.DataAccess.dll
+C:\Users\didie\source\repos\AppPersonas\AppPersonas.DataAccess\obj\Debug\netcoreapp3.1\AppPersonas.DataAccess.pdb

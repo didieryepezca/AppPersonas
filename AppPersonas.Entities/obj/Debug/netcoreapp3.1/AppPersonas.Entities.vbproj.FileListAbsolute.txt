@@ -1,0 +1,10 @@
+C:\Users\didie\source\repos\AppPersonas\AppPersonas.Entities\bin\Debug\netcoreapp3.1\AppPersonas.Entities.deps.json
+C:\Users\didie\source\repos\AppPersonas\AppPersonas.Entities\bin\Debug\netcoreapp3.1\AppPersonas.Entities.dll
+C:\Users\didie\source\repos\AppPersonas\AppPersonas.Entities\bin\Debug\netcoreapp3.1\AppPersonas.Entities.pdb
+C:\Users\didie\source\repos\AppPersonas\AppPersonas.Entities\obj\Debug\netcoreapp3.1\AppPersonas.Entities.vbproj.AssemblyReference.cache
+C:\Users\didie\source\repos\AppPersonas\AppPersonas.Entities\obj\Debug\netcoreapp3.1\AppPersonas.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\didie\source\repos\AppPersonas\AppPersonas.Entities\obj\Debug\netcoreapp3.1\AppPersonas.Entities.AssemblyInfoInputs.cache
+C:\Users\didie\source\repos\AppPersonas\AppPersonas.Entities\obj\Debug\netcoreapp3.1\AppPersonas.Entities.AssemblyInfo.vb
+C:\Users\didie\source\repos\AppPersonas\AppPersonas.Entities\obj\Debug\netcoreapp3.1\AppPersonas.Entities.vbproj.CoreCompileInputs.cache
+C:\Users\didie\source\repos\AppPersonas\AppPersonas.Entities\obj\Debug\netcoreapp3.1\AppPersonas.Entities.dll
+C:\Users\didie\source\repos\AppPersonas\AppPersonas.Entities\obj\Debug\netcoreapp3.1\AppPersonas.Entities.pdb

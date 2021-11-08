@@ -1,0 +1,15 @@
+C:\Users\didie\source\repos\AppPersonas\AppPersonas.BusinessLogic\bin\Debug\netcoreapp3.1\AppPersonas.BusinessLogic.deps.json
+C:\Users\didie\source\repos\AppPersonas\AppPersonas.BusinessLogic\bin\Debug\netcoreapp3.1\AppPersonas.BusinessLogic.dll
+C:\Users\didie\source\repos\AppPersonas\AppPersonas.BusinessLogic\bin\Debug\netcoreapp3.1\AppPersonas.BusinessLogic.pdb
+C:\Users\didie\source\repos\AppPersonas\AppPersonas.BusinessLogic\bin\Debug\netcoreapp3.1\AppPersonas.DataAccess.dll
+C:\Users\didie\source\repos\AppPersonas\AppPersonas.BusinessLogic\bin\Debug\netcoreapp3.1\AppPersonas.Entities.dll
+C:\Users\didie\source\repos\AppPersonas\AppPersonas.BusinessLogic\bin\Debug\netcoreapp3.1\AppPersonas.DataAccess.pdb
+C:\Users\didie\source\repos\AppPersonas\AppPersonas.BusinessLogic\bin\Debug\netcoreapp3.1\AppPersonas.Entities.pdb
+C:\Users\didie\source\repos\AppPersonas\AppPersonas.BusinessLogic\obj\Debug\netcoreapp3.1\AppPersonas.BusinessLogic.vbproj.AssemblyReference.cache
+C:\Users\didie\source\repos\AppPersonas\AppPersonas.BusinessLogic\obj\Debug\netcoreapp3.1\AppPersonas.BusinessLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\didie\source\repos\AppPersonas\AppPersonas.BusinessLogic\obj\Debug\netcoreapp3.1\AppPersonas.BusinessLogic.AssemblyInfoInputs.cache
+C:\Users\didie\source\repos\AppPersonas\AppPersonas.BusinessLogic\obj\Debug\netcoreapp3.1\AppPersonas.BusinessLogic.AssemblyInfo.vb
+C:\Users\didie\source\repos\AppPersonas\AppPersonas.BusinessLogic\obj\Debug\netcoreapp3.1\AppPersonas.BusinessLogic.vbproj.CoreCompileInputs.cache
+C:\Users\didie\source\repos\AppPersonas\AppPersonas.BusinessLogic\obj\Debug\netcoreapp3.1\AppPersonas.BusinessLogic.vbproj.CopyComplete
+C:\Users\didie\source\repos\AppPersonas\AppPersonas.BusinessLogic\obj\Debug\netcoreapp3.1\AppPersonas.BusinessLogic.dll
+C:\Users\didie\source\repos\AppPersonas\AppPersonas.BusinessLogic\obj\Debug\netcoreapp3.1\AppPersonas.BusinessLogic.pdb
